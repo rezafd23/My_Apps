@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_narasumber"
+            android:icon="@drawable/science"
+            android:title="Narasumber" />
+        ``
+        <item
+            android:id="@+id/nav_pekerjaan"
+            android:icon="@drawable/job2"
+            android:title="Pekerjaan" />
+        <item
+            android:id="@+id/nav_penelitian"
+            android:icon="@drawable/physics"
+            android:title="Penelitian" />
+        <item
+            android:id="@+id/nav_pm"
+            android:icon="@drawable/charity"
+            android:title="Pengabdian Masyarakat" />
+        <item
+            android:id="@+id/nav_prestasi"
+            android:icon="@drawable/trophy"
+            android:title="Prestasi" />
+    </group>
+
+
+</menu>
